@@ -1,0 +1,32 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.container{
+    height: auto;
+    width: 100vw;
+    background: red;
+    text-align: center;
+}
+
+.button{
+    height: 55px;
+    width: 200px;
+    background: blue;
+    display: inline-grid;
+    border-radius: 100px
+    margin:
+}
+
+.main{
+    height: 100vh;
+    width: 100vw;
+    background: red;
+}
+
+.main-two{
+    height: 50vh;
+    width: 100vw;
+    background: blue;
+}
